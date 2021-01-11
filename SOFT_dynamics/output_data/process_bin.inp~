@@ -1,0 +1,12 @@
+psi_dyn_Q1_Q5_3_5_tun.bin
+2 contour numeric
+10201  
+-4.0 4.0	$Q_{1}$ 
+-4.0 4.0	$Q_{5}$
+101 101
+/home/nemo/Desktop/SOFT_dynamics_caln/twodim/
+Q1_Q5_dyn_tun_3_5_soft_conotour_abs.mp4
+Q1_Q5_soft_dyn_stepno_
+100 
+1
+0.02
